@@ -23,4 +23,4 @@ Progressive Web Apps (PWA) - The Complete Guide (https://www.udemy.com/progressi
 
 ## Course progress
 
-Finished last time at Section 1, course 10 at 2:52 
+Finished last time at Section 3, course 26 at the start 
